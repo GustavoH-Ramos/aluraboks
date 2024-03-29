@@ -1,7 +1,7 @@
 <h1>AluraBooks</h1>
 
 <h2>Sobre</h2>
-<p>Projeto criado durante o curso de responsividade com Mobile-first na Alura, neste projeto foi confeccionado um site responsivo da AluraBooks.</p>
+<p>Projeto criado durante o curso de responsividade com Mobile-first na Alura, nesse projeto foi confeccionado um site responsivo da AluraBooks.</p>
 <a href = "https://alurabooks-ochre.vercel.app/" class = "link">Clique aqui para acessar o projeto</a>
 </br> </br> </br>
 ##Tecnologias
